@@ -132,7 +132,7 @@ Ces résultats permettent non seulement de mieux interpréter les prédictions d
 Lorsque la performance d'un modèle dégradée est observée en production, il est souvent lié à un phénomène appelé **Data Drift**. Le Data Drift désigne un changement dans les propriétés statistiques des données d'entrée. Cela se produit lorsque le modèle rencontre des données qui dévient de celles sur lesquelles il a été initialement formé. Cette évolution des données peut entraîner une diminution des performances du modèle, car il peut avoir du mal à faire des prédictions précises lorsque les données changent continuellement et que le modèle ne peut pas généraliser au-delà de ce qu'il a appris.
 
 **Pourquoi cela se produit-il ?**  
-Les modèles de machine learning sont généralement formés sur un ensemble de données spécifiques, mais ces données peuvent ne plus refléter la réalité du marché ou les conditions actuelles. Par exemple, des événements comme de nouvelles tendances du marché ou des changements dans les préférences des clients peuvent entraîner des écarts entre les données d'entraînement et les données réelles rencontrées en production. Il est crucial de détecter et de traiter cette dérive pour maintenir la fiabilité du modèle dans un environnement dynamique.
+Ce modèle de machine learning est formé sur un ensemble de donnée spécifique, mais ces données peuvent ne plus refléter la réalité du marché ou les conditions actuelles d'aujourd'hui. Par exemple, des événements comme de nouvelles tendances du marché ou des changements dans les préférences des clients peuvent entraîner des écarts entre les données d'entraînement et les données réelles rencontrées en production. Il est crucial de détecter et de traiter cette dérive pour maintenir la fiabilité du modèle dans un environnement dynamique.
 
 #### 🛠️ **Maintenir la performance du modèle avec une mise à jour continue**  
 Pour atténuer les effets de la dérive des données, il est essentiel de maintenir le modèle en le réentraînant régulièrement sur de nouvelles données. Cela permet au modèle de rester à jour face aux variations progressives des données, comme l’apparition de nouveaux produits ou l’évolution des comportements des consommateurs. 
@@ -142,41 +142,35 @@ Un processus de mise à jour bien défini, incluant une planification régulièr
 #### 🔗 **Référence**  
 Pour plus de détails sur la dérive des données et comment y faire face, vous pouvez consulter [Evidently AI sur la dérive des données](https://www.evidentlyai.com/ml-in-production/data-drift).
 
----
-Voici quelques autres exemples d'utilisation de l'IA générative dans le contexte des prévisions de ventes ou de la gestion des données en entreprise :
 
-1. **Création de rapports automatisés** : En plus de la génération de rapports sur les ventes, l'IA générative peut être utilisée pour créer des synthèses mensuelles ou hebdomadaires détaillant les tendances observées, les anomalies, et les prévisions. Cela pourrait inclure des commentaires et des recommandations pour les gestionnaires.
+### 🧠 5. **Intégration de l'IA générative**
 
-2. **Assistance décisionnelle interactive** : Un système d'IA générative pourrait répondre aux questions spécifiques des gestionnaires, comme par exemple "Quel produit a eu la plus grande variation de ventes ce mois-ci?" ou "Quels facteurs influencent le plus la demande pour cette catégorie?" en générant des réponses contextuelles basées sur les données récentes.
+L'intégration de l'IA générative dans un système de prévision des ventes peut considérablement améliorer l'efficacité des gestionnaires en leur fournissant des rapports périodiques et des insights automatisés. Un exemple concret serait l'utilisation d'un modèle de langage génératif (comme l'API OpenAI) pour générer des rapports détaillant les tendances des ventes, les facteurs influençant la demande, et des recommandations spécifiques pour chaque magasin.
 
-3. **Personnalisation des recommandations** : L'IA générative pourrait offrir des suggestions personnalisées pour chaque magasin en fonction de ses caractéristiques uniques. Par exemple, en analysant les données de ventes et les préférences des clients d'un magasin spécifique, l'IA pourrait proposer des ajustements dans la stratégie de tarification ou de promotion.
+#### 💡 **Architecture proposée et exemple d’utilisation**
 
-4. **Prévisions dynamiques basées sur des événements externes** : L'IA générative pourrait également intégrer des événements externes (comme des tendances économiques ou des campagnes publicitaires) et générer des prévisions de ventes ajustées en temps réel.
-
----
-
-### 🧠 **5. Intégration de l'IA générative**  
-
-L'intégration de l'IA générative dans un système de prévision des ventes peut considérablement améliorer l'efficacité des gestionnaires en leur fournissant des rapports périodiques et des insights automatisés. Un exemple concret serait l'utilisation d'un **modèle de langage génératif** (comme l'API OpenAI) pour générer des rapports détaillant les tendances des ventes, les facteurs influençant la demande, et des recommandations spécifiques pour chaque magasin.
-
-#### 💡 **Architecture proposée et exemple d’utilisation**  
 L'architecture pourrait être configurée de manière à ce que le modèle d'IA générative accède directement aux données récentes des ventes et aux prévisions produites par le modèle de machine learning. Ensuite, à l'aide de l'API OpenAI ou d'un autre modèle de langage, l'IA pourrait créer un rapport automatisé et personnalisé qui met en lumière les éléments clés pour les gestionnaires de magasins.
 
-Cela pourrait inclure des éléments tels que :  
-- **Les meilleures ventes** du mois ou de la semaine.
-- **Les produits à surveiller** en raison d'une baisse des ventes ou d'une forte demande.
-- **Recommandations d'actions** basées sur les tendances et les anomalies observées.
+Cela pourrait inclure des éléments tels que :
+
+- Les meilleures ventes du mois ou de la semaine.
+- Les produits à surveiller en raison d'une baisse des ventes ou d'une forte demande.
+- Recommandations d'actions basées sur les tendances et les anomalies observées.
+  
+En outre, voici quelques autres applications de l'IA générative dans ce contexte :
+  
+- **Prévisions dynamiques basées sur des événements externes** : L'IA générative pourrait également intégrer des événements externes (comme des tendances économiques ou des campagnes publicitaires ou COVID) et générer des prévisions de ventes ajustées en temps réel.
 
 Voici un schéma représentant l'architecture de ce système d'IA générative intégré dans un workflow de prévision des ventes :
 
-![Architecture IA générative](MLWorkflow.drawio.png)
+![ML Workflow](MLWorkflow.drawio.png)
+
 
 Avec cette solution, les gestionnaires bénéficieraient non seulement de prévisions précises, mais aussi de rapports contextuels rédigés automatiquement, leur permettant de prendre des décisions éclairées sans avoir à analyser manuellement les données.
 
 ---
 
 ### 📌 **Remarques finales**  
-
 - Je n'ai pas accordé énormément de temps à améliorer le code, car ma priorité était de présenter mes résultats dans ce **readme**, sans nécessairement détailler chaque ligne de code.
 - Tous les fichiers de code développés sont disponibles dans ce **repo GitHub**.
 - Ce travail m’a pris entre **4 et 5 heures** à réaliser.
