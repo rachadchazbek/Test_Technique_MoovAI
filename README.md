@@ -171,7 +171,6 @@ Avec cette solution, les gestionnaires bénéficieraient non seulement de prévi
 ---
 
 ### 📌 **Remarques finales**  
-- Je n'ai pas accordé énormément de temps à améliorer le code, car ma priorité était de présenter mes résultats dans ce **readme**, sans nécessairement détailler chaque ligne de code.
 - Tous les fichiers de code développés sont disponibles dans ce **repo GitHub**.
 - Ce travail m’a pris entre **4 et 5 heures** à réaliser.
 - J’ai utilisé **ChatGPT** et **GitHub Copilot** pour m'aider à générer rapidement du texte et du code.
