@@ -72,8 +72,58 @@ Avant d'entraîner un modèle, il est essentiel de bien comprendre et préparer 
 ---
 
 ## 🤖 3. Approche de Machine Learning  
-- [Modèle(s) utilisé(s) et justification]  
-- [Métriques de performance et résultats]  
+
+Deux approches de Machine Learning ont été testées pour prédire les ventes (`Sales`) en fonction des variables sélectionnées après l'encodage des données catégoriques.  
+
+### 🔄 **Préparation des données**  
+- Les données d'entraînement et de test ont été transformées en versions encodées (`train_encoded` et `test_encoded`) afin de permettre l'entraînement des modèles.  
+- L'encodage des variables catégoriques a été réalisé à l'aide du **One-Hot Encoding**, générant des colonnes binaires pour chaque catégorie.  
+- Par exemple, la colonne `Ship Mode` a été transformée en quatre nouvelles colonnes binaires correspondant aux différentes classes (`First Class`, `Same Day`, `Second Class`, `Standard Class`).  
+
+### 🌳 **Modèle 1 : Random Forest Regressor**  
+Le premier modèle testé est une **forêt aléatoire (Random Forest Regressor)** issue de la bibliothèque `sklearn.ensemble`.  
+
+#### 📌 **Fonctionnement**  
+- Le modèle a été entraîné sur les données encodées (`train_encoded`), avec `Sales` comme variable cible.  
+- Il a été évalué sur les données de test (`test_encoded`) en utilisant le **Mean Squared Error (MSE)** et le **coefficient de détermination (R²)**.  
+
+#### 📊 **Résultats**  
+- **R-squared (R²) obtenu :** **0.6199**  
+  - Cela signifie que **61,99 %** de la variance des ventes peut être expliquée par les variables sélectionnées.  
+
+### 🧠 **Modèle 2 : Réseau de neurones (Neural Network)**  
+Un second modèle basé sur un **réseau de neurones artificiel** a été testé en utilisant `TensorFlow` et `Keras`.  
+
+#### 📌 **Architecture du modèle**  
+- Une **normalisation des données** a été appliquée en amont.  
+- Le modèle est composé de **trois couches cachées** avec **64, 64 et 32 neurones**, et utilise la fonction d'activation **ReLU**.  
+- La couche de sortie contient **un seul neurone** pour prédire les ventes.  
+- Optimisation réalisée avec l'algorithme **Adam** et fonction de perte **Mean Squared Error**.  
+
+#### 📊 **Résultats**  
+- **R-squared (R²) obtenu :** **0.3086**  
+  - Ce score est **nettement inférieur** à celui du modèle Random Forest, indiquant que cette approche est **moins performante** sur ce jeu de données.  
+
+### 🏆 **Conclusion**  
+- Le modèle **Random Forest Regressor** s'est révélé plus performant que le réseau de neurones pour cette tâche, avec un score R² plus élevé.  
+- L’utilisation de **modèles basés sur des arbres de décision** semble plus adaptée aux données tabulaires structurées, tandis que le réseau de neurones aurait nécessité davantage d’optimisation pour obtenir de meilleurs résultats.  
+
+### 📊 **Interprétabilité du modèle avec SHAP**  
+Afin de mieux comprendre l'impact de chaque variable sur les prédictions du modèle **Random Forest**, la bibliothèque **SHAP (SHapley Additive exPlanations)** a été utilisée.  
+
+#### 🔍 **Pourquoi utiliser SHAP ?**  
+SHAP est une méthode d’explicabilité des modèles de Machine Learning qui permet d’identifier quelles caractéristiques influencent le plus les prédictions. Il attribue un **score d’importance** à chaque variable en mesurant son effet sur la sortie du modèle.  
+
+#### 📊 **Résultats de l’analyse SHAP**  
+L’analyse a confirmé que les **deux variables les plus influentes** sur les ventes (`Sales`) sont :  
+- **Furnishings** : La sous-catégorie de produit la plus déterminante.  
+- **Discount** : L'application de remises a un impact significatif sur les ventes, ce qui corrobore les observations faites précédemment.  
+
+Voici la visualisation des valeurs SHAP illustrant l'importance des différentes variables :  
+
+![SHAP Feature Importance](shap_output.png)  
+
+Ces résultats permettent non seulement de mieux interpréter les prédictions du modèle, mais aussi d’orienter les décisions des gestionnaires sur les facteurs clés influençant les ventes.  
 
 ---
 
