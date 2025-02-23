@@ -1,0 +1,426 @@
+Ship Mode,Segment,Region,Sub-Category,Sales,Discount,Quarter
+Standard Class,Home Office,East,Furnishings,39.08,0.0,3
+Standard Class,Consumer,South,Furnishings,7.904,0.2,3
+Second Class,Corporate,West,Bookcases,1194.165,0.15,3
+Standard Class,Consumer,East,Chairs,198.744,0.3,3
+Standard Class,Consumer,West,Chairs,161.568,0.2,3
+Standard Class,Consumer,West,Tables,801.6,0.5,3
+Standard Class,Consumer,West,Chairs,311.976,0.2,3
+Standard Class,Corporate,East,Furnishings,183.92,0.0,3
+Standard Class,Consumer,Central,Furnishings,8.792,0.6,3
+Standard Class,Corporate,Central,Chairs,182.94,0.0,3
+Standard Class,Corporate,East,Chairs,163.764,0.1,3
+Standard Class,Consumer,South,Bookcases,302.94,0.0,3
+Standard Class,Consumer,Central,Tables,124.404,0.3,3
+Standard Class,Consumer,West,Chairs,225.296,0.2,3
+Standard Class,Consumer,South,Furnishings,8.8,0.0,3
+Standard Class,Consumer,Central,Chairs,526.344,0.3,3
+Second Class,Consumer,East,Furnishings,20.096,0.2,3
+Second Class,Consumer,East,Tables,138.588,0.4,3
+First Class,Home Office,Central,Tables,298.116,0.3,3
+Standard Class,Corporate,West,Chairs,362.352,0.2,3
+Standard Class,Consumer,East,Furnishings,14.89,0.0,3
+Second Class,Consumer,South,Furnishings,91.032,0.2,3
+Second Class,Consumer,West,Furnishings,23.88,0.0,3
+Second Class,Consumer,South,Chairs,194.848,0.2,3
+Standard Class,Consumer,West,Bookcases,115.96,0.0,3
+Standard Class,Consumer,Central,Chairs,302.67,0.0,3
+First Class,Consumer,West,Furnishings,36.96,0.0,3
+Second Class,Consumer,West,Furnishings,123.96,0.0,3
+First Class,Consumer,Central,Bookcases,183.372,0.3,3
+Second Class,Consumer,South,Bookcases,145.74,0.0,3
+Second Class,Consumer,South,Furnishings,15.4,0.0,3
+Standard Class,Consumer,West,Furnishings,51.75,0.0,3
+Standard Class,Consumer,West,Chairs,207.184,0.2,3
+Standard Class,Consumer,Central,Furnishings,121.3,0.0,3
+Same Day,Corporate,East,Chairs,1779.9,0.0,3
+First Class,Consumer,West,Furnishings,54.92,0.0,3
+Standard Class,Consumer,South,Chairs,423.648,0.2,3
+Standard Class,Consumer,South,Furnishings,31.984,0.2,3
+Standard Class,Consumer,West,Tables,418.296,0.2,3
+Standard Class,Home Office,Central,Chairs,74.592,0.3,3
+Standard Class,Home Office,Central,Furnishings,16.784,0.6,3
+Second Class,Consumer,East,Chairs,4416.174,0.3,3
+First Class,Corporate,East,Chairs,462.564,0.1,3
+Second Class,Corporate,East,Furnishings,88.02,0.0,3
+Standard Class,Corporate,West,Furnishings,65.94,0.0,3
+Second Class,Corporate,East,Furnishings,9.94,0.0,3
+Second Class,Corporate,East,Furnishings,40.48,0.0,3
+Standard Class,Consumer,West,Furnishings,22.752,0.2,3
+Second Class,Consumer,South,Chairs,866.4,0.0,3
+Second Class,Corporate,West,Chairs,388.704,0.2,3
+Standard Class,Home Office,East,Furnishings,91.92,0.0,3
+First Class,Consumer,West,Furnishings,129.92,0.0,3
+Standard Class,Home Office,East,Furnishings,25.16,0.0,3
+First Class,Consumer,West,Tables,568.728,0.2,3
+First Class,Consumer,West,Tables,210.008,0.2,3
+First Class,Home Office,East,Tables,314.532,0.4,3
+Second Class,Consumer,South,Furnishings,2.784,0.2,3
+Standard Class,Consumer,East,Bookcases,130.98,0.5,3
+Standard Class,Consumer,Central,Furnishings,64.96,0.6,3
+Second Class,Corporate,West,Furnishings,198.46,0.0,3
+Second Class,Corporate,West,Chairs,230.28,0.2,3
+Standard Class,Corporate,East,Tables,1488.424,0.3,3
+Standard Class,Consumer,West,Furnishings,120.576,0.2,3
+Standard Class,Home Office,West,Tables,1137.75,0.0,3
+Standard Class,Corporate,West,Furnishings,148.02,0.0,3
+Second Class,Corporate,West,Chairs,569.568,0.2,3
+Second Class,Consumer,East,Furnishings,114.9,0.0,3
+Same Day,Consumer,Central,Chairs,498.26,0.0,3
+Same Day,Corporate,West,Tables,283.56,0.0,3
+Standard Class,Corporate,East,Furnishings,15.072,0.2,3
+Standard Class,Corporate,East,Furnishings,11.54,0.0,3
+Standard Class,Consumer,West,Tables,236.528,0.2,3
+Second Class,Home Office,West,Furnishings,511.5,0.0,3
+Standard Class,Corporate,East,Tables,254.526,0.4,3
+Standard Class,Corporate,East,Chairs,1282.41,0.1,3
+Same Day,Home Office,West,Chairs,215.976,0.2,3
+Second Class,Home Office,East,Chairs,90.801,0.1,3
+Second Class,Consumer,West,Bookcases,239.666,0.15,3
+Standard Class,Consumer,Central,Furnishings,108.4,0.6,3
+Second Class,Home Office,East,Chairs,181.764,0.1,3
+Standard Class,Consumer,South,Chairs,97.184,0.2,3
+Second Class,Consumer,West,Tables,1478.272,0.2,3
+Second Class,Corporate,West,Tables,1322.352,0.2,3
+First Class,Corporate,Central,Bookcases,825.174,0.3,3
+Standard Class,Consumer,West,Furnishings,19.76,0.0,3
+First Class,Consumer,West,Furnishings,25.16,0.0,3
+Standard Class,Consumer,West,Furnishings,47.94,0.0,3
+Same Day,Consumer,Central,Furnishings,135.3,0.0,3
+Standard Class,Consumer,West,Chairs,161.568,0.2,3
+First Class,Consumer,West,Furnishings,80.96,0.0,3
+Second Class,Consumer,Central,Tables,765.625,0.5,3
+First Class,Corporate,Central,Furnishings,21.184,0.6,3
+First Class,Corporate,Central,Chairs,213.43,0.3,3
+Standard Class,Consumer,East,Furnishings,66.112,0.2,3
+Second Class,Consumer,West,Chairs,243.92,0.2,3
+Standard Class,Consumer,South,Furnishings,14.136,0.2,3
+Standard Class,Corporate,East,Furnishings,17.024,0.2,3
+Standard Class,Corporate,East,Chairs,141.372,0.3,3
+Same Day,Corporate,West,Chairs,362.352,0.2,3
+Same Day,Consumer,West,Furnishings,32.36,0.0,3
+Same Day,Consumer,West,Chairs,177.568,0.2,3
+Standard Class,Consumer,Central,Tables,512.19,0.3,3
+Same Day,Home Office,West,Chairs,2054.272,0.2,3
+First Class,Consumer,South,Furnishings,34.504,0.2,3
+First Class,Consumer,West,Furnishings,8.36,0.0,3
+First Class,Consumer,East,Furnishings,127.936,0.2,3
+First Class,Consumer,East,Chairs,113.372,0.3,3
+First Class,Home Office,East,Chairs,589.41,0.1,3
+Second Class,Home Office,West,Tables,300.904,0.2,3
+Standard Class,Consumer,West,Chairs,218.352,0.2,3
+Second Class,Consumer,East,Bookcases,782.94,0.0,3
+Standard Class,Consumer,West,Chairs,184.752,0.2,3
+Standard Class,Corporate,East,Chairs,512.96,0.0,3
+Standard Class,Consumer,West,Furnishings,529.9,0.0,3
+Standard Class,Corporate,East,Furnishings,47.4,0.0,3
+Standard Class,Home Office,East,Furnishings,35.56,0.0,3
+First Class,Consumer,East,Furnishings,22.512,0.2,3
+Second Class,Home Office,South,Chairs,723.92,0.0,3
+Second Class,Home Office,Central,Chairs,318.43,0.3,3
+Second Class,Corporate,West,Bookcases,1292.94,0.0,3
+Standard Class,Corporate,South,Furnishings,20.32,0.0,3
+Standard Class,Corporate,East,Furnishings,9.82,0.0,3
+Standard Class,Corporate,West,Bookcases,72.588,0.7,3
+Standard Class,Corporate,West,Furnishings,409.216,0.2,3
+Standard Class,Consumer,East,Chairs,272.646,0.1,3
+Standard Class,Consumer,East,Chairs,80.991,0.1,3
+Standard Class,Consumer,East,Chairs,2254.41,0.1,3
+Standard Class,Consumer,East,Chairs,2888.127,0.1,3
+Second Class,Consumer,East,Furnishings,12.07,0.0,3
+Second Class,Home Office,Central,Bookcases,241.96,0.0,3
+Standard Class,Consumer,West,Chairs,594.816,0.2,3
+Standard Class,Consumer,West,Bookcases,180.588,0.7,3
+Standard Class,Corporate,West,Furnishings,29.328,0.2,3
+Same Day,Consumer,West,Furnishings,199.8,0.0,3
+First Class,Consumer,Central,Chairs,520.464,0.3,3
+Standard Class,Corporate,Central,Chairs,603.92,0.0,3
+Standard Class,Consumer,East,Furnishings,103.056,0.2,3
+Standard Class,Consumer,East,Furnishings,47.12,0.0,3
+Standard Class,Consumer,East,Chairs,488.646,0.1,3
+Standard Class,Consumer,Central,Chairs,269.97,0.0,3
+Same Day,Corporate,West,Furnishings,9.24,0.0,3
+Standard Class,Home Office,South,Chairs,419.136,0.2,3
+Standard Class,Consumer,West,Furnishings,9.24,0.0,3
+First Class,Home Office,West,Furnishings,32.776,0.2,3
+Same Day,Home Office,East,Chairs,63.686,0.3,3
+Same Day,Home Office,East,Tables,344.22,0.4,3
+Same Day,Home Office,East,Furnishings,21.248,0.2,3
+First Class,Consumer,West,Furnishings,51.75,0.0,3
+First Class,Consumer,West,Chairs,72.784,0.2,3
+First Class,Consumer,West,Chairs,108.608,0.2,4
+Standard Class,Corporate,West,Chairs,451.152,0.2,4
+First Class,Home Office,South,Furnishings,11.808,0.2,4
+Standard Class,Consumer,West,Furnishings,17.46,0.0,4
+Standard Class,Consumer,West,Bookcases,217.764,0.7,4
+First Class,Home Office,South,Furnishings,9.656,0.2,4
+Second Class,Corporate,South,Furnishings,10.16,0.0,4
+First Class,Home Office,South,Tables,2314.116,0.4,4
+Standard Class,Consumer,Central,Furnishings,157.74,0.0,4
+First Class,Home Office,South,Furnishings,19.76,0.2,4
+Second Class,Home Office,East,Furnishings,83.92,0.0,4
+Standard Class,Corporate,West,Tables,171.288,0.2,4
+Standard Class,Home Office,East,Furnishings,19.98,0.0,4
+Standard Class,Corporate,West,Furnishings,72.9,0.0,4
+Standard Class,Corporate,West,Tables,206.352,0.2,4
+Standard Class,Corporate,West,Chairs,435.168,0.2,4
+Standard Class,Corporate,East,Chairs,221.382,0.1,4
+Standard Class,Home Office,West,Furnishings,41.96,0.0,4
+Standard Class,Consumer,West,Bookcases,307.666,0.15,4
+Standard Class,Home Office,South,Tables,154.764,0.4,4
+Standard Class,Consumer,East,Chairs,145.764,0.1,4
+Second Class,Consumer,Central,Chairs,254.058,0.3,4
+Standard Class,Corporate,Central,Tables,66.645,0.5,4
+Standard Class,Consumer,East,Bookcases,314.352,0.2,4
+First Class,Corporate,East,Furnishings,45.888,0.2,4
+Standard Class,Corporate,Central,Tables,652.45,0.5,4
+Standard Class,Consumer,Central,Chairs,239.358,0.3,4
+Standard Class,Home Office,Central,Chairs,254.604,0.3,4
+Same Day,Consumer,East,Tables,673.344,0.3,4
+Standard Class,Consumer,East,Furnishings,40.48,0.0,4
+Standard Class,Consumer,East,Bookcases,2154.9,0.0,4
+First Class,Consumer,Central,Furnishings,10.476,0.6,4
+First Class,Consumer,South,Tables,1504.52,0.0,4
+First Class,Consumer,West,Furnishings,9.46,0.0,4
+First Class,Corporate,West,Tables,510.24,0.2,4
+Standard Class,Corporate,West,Furnishings,22.72,0.0,4
+First Class,Corporate,East,Furnishings,547.3,0.0,4
+Standard Class,Corporate,South,Tables,1875.258,0.4,4
+Second Class,Corporate,West,Furnishings,30.56,0.0,4
+Second Class,Corporate,West,Tables,24.368,0.2,4
+Standard Class,Corporate,East,Furnishings,56.56,0.0,4
+Standard Class,Consumer,Central,Bookcases,328.3992,0.32,4
+Standard Class,Consumer,Central,Tables,91.275,0.5,4
+Same Day,Consumer,South,Furnishings,43.936,0.2,4
+Standard Class,Corporate,East,Tables,284.364,0.4,4
+Same Day,Home Office,Central,Tables,262.11,0.0,4
+Standard Class,Home Office,South,Chairs,683.952,0.2,4
+Standard Class,Home Office,South,Furnishings,45.696,0.2,4
+First Class,Corporate,West,Chairs,478.48,0.2,4
+Second Class,Consumer,West,Chairs,579.136,0.2,4
+Same Day,Consumer,Central,Tables,248.98,0.0,4
+Standard Class,Corporate,West,Tables,177.225,0.5,4
+First Class,Corporate,East,Tables,637.896,0.3,4
+First Class,Corporate,East,Furnishings,210.68,0.0,4
+Standard Class,Corporate,East,Furnishings,69.08,0.0,4
+First Class,Corporate,East,Furnishings,35.0,0.0,4
+First Class,Corporate,East,Tables,240.744,0.3,4
+First Class,Consumer,Central,Tables,517.405,0.3,4
+Standard Class,Consumer,South,Tables,356.85,0.0,4
+First Class,Corporate,West,Tables,189.576,0.2,4
+First Class,Corporate,West,Bookcases,556.665,0.15,4
+Second Class,Consumer,South,Furnishings,77.952,0.2,4
+First Class,Consumer,West,Bookcases,199.98,0.0,4
+First Class,Consumer,West,Chairs,614.272,0.2,4
+Standard Class,Consumer,East,Furnishings,7.168,0.2,4
+Standard Class,Consumer,West,Chairs,71.992,0.2,4
+Same Day,Consumer,Central,Furnishings,16.192,0.6,4
+Standard Class,Corporate,West,Furnishings,9.64,0.0,4
+Same Day,Consumer,Central,Tables,251.006,0.3,4
+First Class,Home Office,South,Chairs,33.94,0.0,4
+First Class,Consumer,West,Chairs,97.568,0.2,4
+Second Class,Consumer,West,Tables,2665.62,0.0,4
+Second Class,Corporate,South,Chairs,975.92,0.0,4
+Second Class,Home Office,East,Chairs,155.372,0.3,4
+Standard Class,Corporate,East,Furnishings,3.312,0.2,4
+Second Class,Home Office,West,Furnishings,25.02,0.0,4
+First Class,Home Office,West,Tables,1673.184,0.2,4
+Standard Class,Corporate,West,Chairs,307.136,0.2,4
+Standard Class,Consumer,West,Tables,486.368,0.2,4
+Standard Class,Consumer,West,Furnishings,41.37,0.0,4
+Second Class,Corporate,South,Furnishings,15.992,0.2,4
+First Class,Corporate,South,Tables,523.764,0.4,4
+Second Class,Consumer,East,Tables,166.5,0.4,4
+Second Class,Consumer,East,Chairs,128.124,0.1,4
+Second Class,Consumer,East,Furnishings,101.4,0.0,4
+Standard Class,Consumer,West,Furnishings,8.73,0.0,4
+Standard Class,Consumer,East,Chairs,127.372,0.3,4
+Standard Class,Home Office,West,Tables,2036.86,0.0,4
+Second Class,Consumer,Central,Furnishings,30.56,0.6,4
+Standard Class,Home Office,West,Chairs,449.568,0.2,4
+Second Class,Consumer,South,Furnishings,28.272,0.2,4
+Second Class,Corporate,East,Chairs,272.97,0.0,4
+Standard Class,Consumer,East,Tables,350.352,0.4,4
+Standard Class,Corporate,East,Furnishings,274.2,0.0,4
+Second Class,Home Office,East,Furnishings,96.53,0.0,4
+Standard Class,Corporate,West,Chairs,523.392,0.2,4
+Standard Class,Consumer,West,Furnishings,47.12,0.0,4
+First Class,Corporate,West,Chairs,215.976,0.2,4
+First Class,Corporate,West,Chairs,899.136,0.2,4
+Second Class,Corporate,Central,Furnishings,341.96,0.6,4
+Standard Class,Home Office,West,Chairs,241.424,0.2,4
+Second Class,Home Office,West,Furnishings,34.92,0.0,4
+First Class,Consumer,South,Furnishings,88.92,0.2,4
+Standard Class,Home Office,Central,Furnishings,22.848,0.6,4
+Same Day,Home Office,West,Furnishings,113.568,0.2,4
+Same Day,Home Office,West,Chairs,113.888,0.2,4
+Second Class,Corporate,East,Furnishings,154.95,0.0,4
+Standard Class,Consumer,West,Chairs,2404.704,0.2,4
+Standard Class,Corporate,Central,Bookcases,205.9992,0.32,4
+Standard Class,Corporate,West,Chairs,321.568,0.2,4
+Standard Class,Consumer,South,Furnishings,339.136,0.2,4
+Standard Class,Consumer,South,Furnishings,220.064,0.2,4
+Standard Class,Consumer,West,Furnishings,17.31,0.0,4
+First Class,Consumer,West,Furnishings,139.92,0.0,4
+Standard Class,Consumer,West,Furnishings,12.42,0.0,4
+Standard Class,Consumer,West,Furnishings,119.94,0.0,4
+Standard Class,Consumer,Central,Bookcases,327.7328,0.32,4
+Standard Class,Consumer,East,Furnishings,187.76,0.0,4
+Standard Class,Consumer,Central,Chairs,127.386,0.3,4
+Standard Class,Home Office,Central,Furnishings,19.76,0.0,4
+Same Day,Corporate,Central,Furnishings,5.82,0.0,4
+Standard Class,Consumer,South,Furnishings,821.88,0.0,4
+Same Day,Home Office,East,Tables,79.974,0.4,4
+Standard Class,Consumer,West,Furnishings,18.7,0.0,4
+First Class,Corporate,Central,Tables,718.116,0.3,4
+Standard Class,Consumer,Central,Chairs,233.058,0.3,4
+Standard Class,Corporate,Central,Chairs,305.312,0.3,4
+First Class,Consumer,Central,Chairs,191.058,0.3,4
+Second Class,Consumer,Central,Furnishings,15.992,0.6,4
+Standard Class,Consumer,Central,Tables,219.075,0.5,4
+Standard Class,Home Office,South,Furnishings,27.58,0.0,4
+First Class,Consumer,East,Bookcases,183.968,0.2,4
+Standard Class,Consumer,East,Furnishings,77.6,0.2,4
+Standard Class,Consumer,East,Furnishings,4.656,0.2,4
+Standard Class,Consumer,South,Chairs,209.568,0.2,4
+Second Class,Consumer,West,Furnishings,42.6,0.0,4
+Standard Class,Consumer,West,Chairs,283.92,0.2,4
+Second Class,Corporate,East,Furnishings,50.97,0.0,4
+Standard Class,Consumer,East,Furnishings,27.42,0.0,4
+Standard Class,Consumer,West,Tables,70.98,0.0,4
+Standard Class,Consumer,Central,Furnishings,6.464,0.6,4
+Second Class,Corporate,Central,Furnishings,28.4,0.0,4
+First Class,Consumer,East,Furnishings,24.048,0.2,4
+First Class,Corporate,Central,Tables,127.785,0.3,4
+Standard Class,Corporate,East,Chairs,977.292,0.1,4
+Standard Class,Consumer,East,Bookcases,321.568,0.2,4
+Same Day,Consumer,West,Tables,71.088,0.2,4
+Same Day,Consumer,West,Tables,364.08,0.2,4
+Standard Class,Consumer,South,Bookcases,723.92,0.2,4
+Standard Class,Consumer,Central,Chairs,853.93,0.3,4
+Standard Class,Consumer,West,Bookcases,359.499,0.15,4
+Second Class,Corporate,South,Chairs,701.96,0.0,4
+Second Class,Consumer,East,Furnishings,135.3,0.0,4
+Standard Class,Home Office,Central,Tables,257.94,0.0,4
+Standard Class,Home Office,Central,Furnishings,27.46,0.0,4
+First Class,Consumer,Central,Furnishings,126.3,0.0,4
+Standard Class,Home Office,Central,Chairs,828.6,0.0,4
+Standard Class,Consumer,West,Furnishings,18.84,0.0,4
+First Class,Corporate,Central,Furnishings,46.94,0.0,4
+Standard Class,Home Office,East,Furnishings,20.9,0.0,4
+Standard Class,Home Office,East,Furnishings,1049.2,0.0,4
+Standard Class,Home Office,East,Furnishings,1007.232,0.2,4
+Standard Class,Home Office,East,Furnishings,516.488,0.2,4
+Standard Class,Home Office,East,Tables,2065.32,0.4,4
+Standard Class,Consumer,South,Chairs,390.368,0.2,4
+Standard Class,Consumer,South,Furnishings,101.52,0.2,4
+First Class,Home Office,West,Furnishings,25.83,0.0,4
+Standard Class,Consumer,South,Tables,1781.682,0.4,4
+Second Class,Home Office,East,Chairs,1242.9,0.1,4
+First Class,Consumer,East,Chairs,1079.316,0.3,4
+Standard Class,Corporate,West,Furnishings,70.68,0.0,4
+Standard Class,Consumer,West,Bookcases,141.96,0.0,4
+Standard Class,Consumer,East,Chairs,398.972,0.3,4
+First Class,Consumer,East,Furnishings,79.12,0.2,4
+Standard Class,Consumer,Central,Chairs,317.058,0.3,4
+Standard Class,Home Office,East,Chairs,897.15,0.0,4
+First Class,Home Office,East,Furnishings,7.712,0.2,4
+Standard Class,Home Office,West,Furnishings,629.64,0.0,4
+Standard Class,Corporate,West,Chairs,906.68,0.2,4
+Standard Class,Corporate,West,Furnishings,508.704,0.2,4
+Standard Class,Corporate,West,Bookcases,242.352,0.7,4
+Second Class,Consumer,Central,Furnishings,8.752,0.6,4
+Standard Class,Corporate,West,Chairs,1159.056,0.2,4
+First Class,Consumer,South,Chairs,701.96,0.0,4
+Second Class,Home Office,West,Tables,521.96,0.0,4
+Standard Class,Consumer,Central,Furnishings,13.592,0.6,4
+Second Class,Consumer,West,Furnishings,16.192,0.2,4
+Second Class,Consumer,West,Furnishings,16.72,0.2,4
+Second Class,Consumer,West,Furnishings,23.376,0.2,4
+First Class,Corporate,East,Furnishings,11.352,0.2,4
+Standard Class,Consumer,East,Furnishings,12.99,0.0,4
+Standard Class,Corporate,East,Furnishings,54.768,0.2,4
+Standard Class,Corporate,East,Chairs,239.96,0.3,4
+Standard Class,Consumer,East,Chairs,182.22,0.0,4
+Same Day,Corporate,East,Chairs,188.552,0.3,4
+Standard Class,Consumer,East,Chairs,302.94,0.0,4
+First Class,Home Office,West,Furnishings,199.9,0.0,4
+Standard Class,Corporate,East,Furnishings,20.94,0.0,4
+Standard Class,Corporate,East,Furnishings,58.68,0.0,4
+First Class,Consumer,East,Furnishings,41.96,0.0,4
+Standard Class,Consumer,South,Furnishings,82.38,0.0,4
+Standard Class,Consumer,West,Chairs,113.568,0.2,4
+First Class,Consumer,West,Furnishings,128.9,0.0,4
+Standard Class,Consumer,Central,Bookcases,459.92,0.0,4
+Standard Class,Consumer,West,Bookcases,1336.829,0.15,4
+Standard Class,Consumer,East,Chairs,215.544,0.3,4
+Standard Class,Consumer,West,Tables,1004.024,0.2,4
+Second Class,Consumer,East,Furnishings,109.48,0.0,4
+Second Class,Home Office,West,Tables,896.328,0.2,4
+First Class,Corporate,Central,Furnishings,9.708,0.6,4
+Second Class,Home Office,West,Bookcases,148.257,0.15,4
+Standard Class,Corporate,Central,Chairs,872.94,0.0,4
+Standard Class,Corporate,South,Furnishings,14.76,0.0,4
+First Class,Consumer,South,Furnishings,19.104,0.2,4
+First Class,Consumer,East,Furnishings,310.88,0.2,4
+First Class,Consumer,East,Furnishings,87.92,0.2,4
+Second Class,Consumer,West,Tables,1669.6,0.0,4
+Same Day,Consumer,Central,Furnishings,77.72,0.6,4
+Same Day,Consumer,Central,Chairs,520.464,0.3,4
+Standard Class,Corporate,South,Tables,721.875,0.45,4
+Standard Class,Corporate,South,Chairs,64.784,0.2,4
+Standard Class,Consumer,East,Chairs,63.686,0.3,4
+Standard Class,Consumer,West,Furnishings,201.04,0.0,4
+Standard Class,Corporate,East,Bookcases,287.976,0.2,4
+Same Day,Consumer,Central,Furnishings,56.328,0.6,4
+Same Day,Consumer,Central,Furnishings,266.352,0.6,4
+Standard Class,Home Office,Central,Furnishings,2.032,0.6,4
+Standard Class,Consumer,Central,Tables,974.988,0.3,4
+Standard Class,Home Office,West,Furnishings,26.25,0.0,4
+Standard Class,Home Office,East,Tables,526.582,0.3,4
+Standard Class,Home Office,West,Furnishings,22.77,0.0,4
+Second Class,Corporate,West,Chairs,81.568,0.2,4
+Second Class,Corporate,West,Chairs,97.184,0.2,4
+Second Class,Corporate,West,Furnishings,18.96,0.0,4
+Standard Class,Consumer,East,Furnishings,124.36,0.0,4
+Standard Class,Consumer,South,Chairs,504.9,0.0,4
+Second Class,Consumer,West,Bookcases,119.833,0.15,4
+Standard Class,Consumer,East,Furnishings,18.96,0.0,4
+Standard Class,Corporate,Central,Furnishings,99.95,0.0,4
+Standard Class,Consumer,East,Chairs,1141.938,0.1,4
+Standard Class,Consumer,West,Bookcases,102.018,0.7,4
+Standard Class,Consumer,West,Furnishings,13.36,0.2,4
+Same Day,Home Office,Central,Furnishings,15.92,0.0,4
+Standard Class,Consumer,Central,Tables,607.52,0.0,4
+Standard Class,Consumer,South,Tables,934.956,0.4,4
+Second Class,Consumer,West,Tables,182.55,0.5,4
+Standard Class,Home Office,South,Chairs,141.96,0.0,4
+Second Class,Corporate,East,Bookcases,220.98,0.0,4
+First Class,Consumer,Central,Chairs,1586.69,0.0,4
+First Class,Consumer,Central,Tables,411.8,0.0,4
+Standard Class,Consumer,South,Furnishings,72.704,0.2,4
+Standard Class,Home Office,East,Furnishings,27.46,0.0,4
+Standard Class,Corporate,East,Furnishings,181.95,0.0,4
+Standard Class,Consumer,East,Chairs,271.764,0.1,4
+Standard Class,Home Office,West,Furnishings,8.544,0.2,4
+Standard Class,Home Office,West,Chairs,842.376,0.2,4
+Standard Class,Consumer,South,Chairs,232.88,0.0,4
+Standard Class,Corporate,East,Furnishings,37.93,0.0,4
+Standard Class,Consumer,East,Bookcases,191.984,0.2,4
+Standard Class,Corporate,East,Furnishings,41.96,0.0,4
+Standard Class,Consumer,East,Tables,273.06,0.4,4
+First Class,Consumer,South,Furnishings,21.0,0.2,4
+Second Class,Consumer,South,Chairs,304.45,0.0,4
+Standard Class,Corporate,Central,Furnishings,7.968,0.6,4
+Standard Class,Corporate,Central,Chairs,113.372,0.3,4
+Standard Class,Corporate,Central,Furnishings,2.96,0.6,4
+First Class,Corporate,West,Chairs,340.704,0.2,4
+Standard Class,Consumer,Central,Bookcases,78.8528,0.32,4
+Standard Class,Corporate,West,Furnishings,7.4,0.0,4
+Standard Class,Consumer,West,Chairs,393.568,0.2,4
+Standard Class,Consumer,West,Furnishings,68.46,0.0,4
+Second Class,Consumer,South,Chairs,258.75,0.0,4
+Second Class,Consumer,South,Chairs,1207.84,0.0,4
+Standard Class,Corporate,West,Furnishings,101.12,0.0,4
+Second Class,Consumer,South,Chairs,300.98,0.0,4
+Standard Class,Consumer,East,Bookcases,323.136,0.2,4
